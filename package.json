@@ -2,7 +2,8 @@
   "name": "safesingletons",
   "version": "1.0.0",
   "description": "Share singleton objects in node safely.",
-  "main": "safeSingletons.js",
+  "main": "index.js",
+  "repository": "chris-baumann112/safeSingletons",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
