@@ -1,0 +1,16 @@
+{
+  "name": "safesingletons",
+  "version": "1.0.0",
+  "description": "Share singleton objects in node safely.",
+  "main": "safeSingletons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "singleton",
+    "npm",
+    "package"
+  ],
+  "author": "Christopher James Baumann",
+  "license": "MIT"
+}
