@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Share singleton objects in node safely.",
   "main": "index.js",
-  "repository": "chris-baumann112/safeSingletons",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/chris-baumann112/safeSingletons"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
