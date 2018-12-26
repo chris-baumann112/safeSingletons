@@ -8,7 +8,7 @@
     "url": "https://github.com/chris-baumann112/safeSingletons"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha"
   },
   "keywords": [
     "singleton",
